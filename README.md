@@ -1370,6 +1370,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Skiena's Algorithms Lectures](https://www3.cs.stonybrook.edu/~algorith/video-lectures/) - Video lectures on algorithms by Steven Skiena.
 - [Visual Algorithms](https://thimbleby.gitlab.io/algorithm-wiki-site/) - Platform presenting visual representations of algorithms.
 - [Sinon - Algorithms](https://sinon.org/algorithms/) - Summarized page covering important results from computer science.
+- [ntree.ai](https://ntree.ai) - Line-by-line code visualiser that runs code in a real debugger and draws the state of the program at each line with data structures, with popular DSA problems and solutions.
 
 ### Big-O notation
 
